@@ -1,0 +1,25 @@
+#header {
+  height: 230px;
+}
+#header form {
+  float: left;
+  margin: 3px 0px 0px 15px;
+}
+#header form input {
+  width: 430px;
+}
+#wrapper {
+  width: 480px;
+}
+
+#daftar-artikel {
+  width: 480px;
+  float: none;
+}
+
+#sidebar {
+  display: none;
+}
+#menu-utama li {
+  float: none;
+}
