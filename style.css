@@ -174,7 +174,7 @@ textarea:focus {
 
 @media screen and (min-width: 480px) and (max-width: 767px) {
   #header {
-    height: 230px;
+    height: 235px;
   }
   #header form {
     float: left;
@@ -197,6 +197,9 @@ textarea:focus {
   }
   #menu-utama li {
     float: none;
+  }
+  #menu-utama li a {
+    font-size: 13pt;
   }
 }
 
