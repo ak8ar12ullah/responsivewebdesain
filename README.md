@@ -1,3 +1,9 @@
+NAMA : FARIDL MUKHLASHIN AKBARULLAH
+
+NIM  : 12201776
+
+INFORMATIKA A2
+
 # layout_web
 Studi kasus membuat halaman responsive
 
