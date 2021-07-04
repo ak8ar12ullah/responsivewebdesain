@@ -199,3 +199,31 @@ textarea:focus {
     float: none;
   }
 }
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  #header {
+    height: 230px;
+  }
+  #header form {
+    float: left;
+    margin: 3px 0px 0px 15px;
+  }
+  #header form input {
+    width: 715px;
+  }
+  #wrapper {
+    width: 768px;
+  }
+
+  #daftar-artikel {
+    width: 768px;
+    float: none;
+  }
+
+  #sidebar {
+    display: none;
+  }
+  #menu-utama li {
+    float: none;
+  }
+}
